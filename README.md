@@ -45,7 +45,8 @@ Veri örüntüsüne göre en küçük sayı bulunuyor ve en sola alınarak ilerl
 ### BONUS [7,3,5,8,2,9,4,15,6] ###
 Write the first 4 steps of the array according to the Insertion Sort.
 
-    First step: [2| , 3, 5, 8, 7, 9, 4, 15, 6]
-    Second step: [2, 3| , 5, 8, 7, 9, 4, 15, 6]
-    Third step: [2, 3, 4| , 8, 7, 9, 5, 15, 6]
-    Fourth step: [2, 3, 4, 5| , 7, 9, 8, 15, 6]
+    Question: [2| , 3, 5, 8, 7, 9, 4, 15, 6]
+    First step: [2, 3| , 5, 8, 7, 9, 4, 15, 6]
+    Second step: [2, 3, 4| , 8, 7, 9, 5, 15, 6]
+    Third step: [2, 3, 4, 5| , 7, 9, 8, 15, 6]
+    Fourth step: [2, 3, 4, 5| , 6, 9, 8, 15, 7]
